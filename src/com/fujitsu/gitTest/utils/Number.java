@@ -91,6 +91,7 @@ public abstract class Number implements java.io.Serializable {
      * @since   JDK1.1
      */
     public byte byteValue() {
+        int i = 2;
         return (byte)intValue();
     }
 
