@@ -7,4 +7,7 @@ package com.fujitsu.gitTest;
  */
 public class gitTest {
 	// test
+	public static void main(String[] args) {
+		
+	}
 }
