@@ -1,7 +1,7 @@
 package com.fujitsu.getTest;
 
 /**
- * git•×‹­ƒNƒ‰ƒX
+ * git learn class
  * @author yang.bo
  *
  */
