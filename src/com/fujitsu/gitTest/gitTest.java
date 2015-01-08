@@ -1,7 +1,7 @@
 package com.fujitsu.gitTest;
 
 /**
- * git•×�?­ƒNƒ�?ƒX
+ * git test
  * @author yang.bo
  *
  */
