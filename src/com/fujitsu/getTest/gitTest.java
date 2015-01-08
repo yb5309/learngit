@@ -1,10 +1,10 @@
 package com.fujitsu.getTest;
 
 /**
- * git•×‹­ƒNƒ‰ƒX
+ * gitâ€¢Ã—â€¹Â­Æ’NÆ’â€°Æ’X
  * @author yang.bo
  *
  */
 public class gitTest {
-	
+	// test
 }
