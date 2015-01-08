@@ -40,7 +40,6 @@ package com.fujitsu.gitTest.utils;
  * @author      Arthur van Hoff
  * @see     java.lang.Byte
  * @see     java.lang.Double
- * @see     java.lang.Float
  * @see     java.lang.Integer
  * @see     java.lang.Long
  * @see     java.lang.Short
